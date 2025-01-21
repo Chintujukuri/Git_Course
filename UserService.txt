@@ -3,3 +3,10 @@ Get the user data:
 create an avator for user.
 
 login and logout.
+<<<<<<< HEAD
+change 1
+change 2
+=======
+
+change:1
+>>>>>>> caf0895 (cahnges in main)
