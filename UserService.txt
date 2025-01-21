@@ -2,7 +2,7 @@ Get the user data:
 
 create an avator for user.
 
-login and logout.
+login and logout using flutter.
 change 1
 change 2 in to nithin's database:
 
