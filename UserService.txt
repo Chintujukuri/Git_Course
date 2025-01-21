@@ -4,4 +4,5 @@ create an avator for user.
 
 login and logout.
 change 1
-change 2 int to database:
+change 2 in to nithin's database:
+
